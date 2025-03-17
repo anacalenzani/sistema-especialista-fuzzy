@@ -11,7 +11,7 @@ Para o projeto, foi desenvolvido um sistema especialista baseado em regras fuzzy
 4. Ao final do processo, o sistema fornecerá uma recomendação adequada às particularidades do seu cenário.
 
 ## Requisitos:
-Devido à licença de uso estudantil, o aplicativo do SEF só poderá ser acessado via MATLAB. Para isso, é necessário que o usuário possua, no mínimo, uma versão de teste do MATLAB instalada em seu computador.
+Devido à licença de uso estudantil, o aplicativo do SEF só poderá ser acessado via MATLAB. Para isso, é necessário que o usuário possua, no mínimo, uma versão de teste do MATLAB instalada em seu computador com a ferramenta/extensão Fuzzy Logic Toolbox.
 
 ## Planilha de Dimensionamento:
 Também é disponibilizada uma planilha eletrônica para dimensionamento básico de sistemas off-grid. Para utilizá-la:
